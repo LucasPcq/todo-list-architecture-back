@@ -6,6 +6,8 @@ Le but de ce repo était d'avoir une API simple permettant d'expérimenter et de
 
 Par la suite ce repo va servir également de afin de monter également sur les mêmes compétences (et de nouvelles) en back.
 
+Vous pouvez retrouver une document Swagger sur l'url **/api**
+
 ## Installation
 
 ```bash
